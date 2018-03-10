@@ -1,14 +1,14 @@
 # Site settings
 title: testing 
 description: testin
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "billkeys.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Bill Keys
 user_description: Welcome to my website.
 user_title: Software Developer
-email: 
+email: william.keys1@gmail.com 
 twitter_username: bk_keys
 github_username:  billKeys
 
